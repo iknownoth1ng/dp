@@ -21,7 +21,7 @@ public class Client {
         feVideo.produce();
         //还可以通过反射机制和配置文件配合，连客户端代码都不需要修改
         // 从文件或数据库等外部渠道获取 工厂类名
-        String factoryName = " com.owl.dp.creatingpattern.factory.factorymethod.JavaVideoFactory";
+        String factoryName = "com.owl.dp.creatingpattern.factory.factorymethod.JavaVideoFactory";
         // 通过反射机制获取工厂类
         Class c = Class.forName(factoryName);
         VideoFactory factory = (VideoFactory) c.newInstance();
