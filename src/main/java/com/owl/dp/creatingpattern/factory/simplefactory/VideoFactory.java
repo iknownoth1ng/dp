@@ -2,8 +2,8 @@ package com.owl.dp.creatingpattern.factory.simplefactory;
 
 /**
  * @author by 15515
- * @Classname VideoFactory
- * @Description TODO VideoFactory（工厂角色）
+ * @Classname Factory
+ * @Description TODO Factory（工厂角色）
  * @Date 2021/4/29 0:29
  **/
 public class VideoFactory {
