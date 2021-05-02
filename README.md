@@ -1,7 +1,5 @@
 [TOC]
 
-
-
 ## 设计模式
 
 22种设计模式和一个恶作剧
@@ -104,7 +102,7 @@
 
 ## 参考资料
 
-[版权声明：本文为CSDN博主「小旋锋」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。](https://blog.csdn.net/wwwdc1012/article/details/83317973)
+[本文参考CSDN博主「小旋锋」的原创文章](https://blog.csdn.net/wwwdc1012/article/details/83317973)
 
 [参考链接1](http://laijianfeng.org/2018/09/设计模式-简单工厂模式及典型应用/)
 
