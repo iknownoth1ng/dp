@@ -1,6 +1,7 @@
 package com.owl.dp.structurelpattern.decorator;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * 测试装饰器
